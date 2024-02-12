@@ -1,7 +1,5 @@
 # MyHelper
 
-<img src='screenshots/Screenshot-1.png' width='295'><img src='screenshots/Screenshot-2.png' width='295'><img src='screenshots/Screenshot-3.png' width='295'>
-
 This is an android application which solves 4 basic problems that every smartphone user face<br>
 
 <b>Problem 1:</b> Forgot your phone at home? Want to get the contact’s number to make an important call?<br>
